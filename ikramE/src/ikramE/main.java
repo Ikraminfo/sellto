@@ -7,6 +7,8 @@ public class main {
 		System.out.println("moi melle ikram senoussaoui");
      int a=15;
      System.out.println(a);
+     int b=12;
+     System.out.println(b);
 	}
 
 }
